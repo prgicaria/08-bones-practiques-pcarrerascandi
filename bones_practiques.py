@@ -2,8 +2,8 @@
 '''Divisió entera. Aquest programa fa una divisió entera de dos números
 Institut Icaria
 Programació - 1r Batxillerat - Curs 2023-2024
-Aquest programa demana dos números: un divident i un divisor, 
-fa una divisió entera dels dos nombres i mostra per pantalla la divisió, 
+Aquest programa demana dos números: un divident i un divisor,
+fa una divisió entera dels dos nombres i mostra per pantalla la divisió
 el quocient i el residu.
 '''
 __author__ = ""
